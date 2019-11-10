@@ -1,6 +1,4 @@
 .idea
 *.sqlite3
 gestao_venv
-__pycache__.py
-gestao_rh/__pycache__/settings.cpython-37.pyc
 
